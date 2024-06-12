@@ -1,0 +1,33 @@
+h1, h2, h3, h4, p, body{
+        text-align: center;
+      }
+body{background-color: #E3AE26;
+}
+body {
+  font-family: 'Tsukimi Rounded', sans-serif;
+  }
+
+
+.show-one{
+  text-align: left;
+  width:30%;
+  
+}
+
+.show-two{
+  text-align: right;
+  width: 30%;
+}
+
+.spotify{
+  width: 11%;
+}
+.bandcamp{
+  width:14%;
+}
+.apple{
+  width:12.5%;
+}
+
+
+.time{width:400px;}
