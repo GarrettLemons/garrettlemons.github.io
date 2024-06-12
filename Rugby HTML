@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<main>
+  <head>
+    <meta charset="utf-8">
+    
+    <title>RUGBY</title>
+
+    <!--link to CSS sheet-->
+    <link rel="stylesheet" href="RUGBY CSS">
+
+    <!--mobile-->
+    <meta name="viewport" content=""width=device-width, initial-scale="1.0" />
+  </head>
+
+  <body>
+  <!--rugbybanner-->
+  <section>
+  <h1> 
+   <a href="www.aclu.org" target="_blank">
+    <img src="https://f4.bcbits.com/img/0036138186_100.png">
+   </a>
+  </h1>
+</section>
+
+
+<section>
+  <!--<h2>SHOWS</h2>-->
+  <!--show fliers go here-->
+   <!--<a href="https://www.aclu.org" target="_blank">
+     <img class="show-one" src="https://www.posteralley.ca/cdn/shop/products/PI104_a_fe80128f-1ab4-4bf7-8ff2-848fd2ab2d98_1024x1024.jpg?v=1593588382" alt="a flyer for a concert">
+   </a>
+
+   <a href="https://www.thebroadway.nyc/showcalendar/ogbert-the-nerd-w-blind-equation-ultra-deluxe-grim-litter-despot-wifey" target="_blank">
+    <img class="show-two" src="https://visiblevibrations.com/wp-content/uploads/2023/03/03032023_THE-WHISKY_001.jpg" alt="a flyer for a DRI show">
+   </a>
+ </section>-->
+
+
+ <section>
+ <h2>MUSIC</h2>
+ <!--maybe a long, thin photo banner would be cool here-->
+ <h4>LINKS</h4>
+   <!--spotify, apple music, bandcamp-->
+   <a href="https://open.spotify.com/track/42zmiBSBHlAUlJpqNgAAQa?si=7b0b524c42e24c6b" target="_blank">
+    <img class="spotify" src="https://i.pcmag.com/imagery/reviews/042FW7hC9vrGnoDea9LArXI-35.fit_lim.size_1050x591.v1674253030.png" alt="spotify button">
+  </a>
+  <!-- <a href="https://rugbynyc.bandcamp.com/track/procrastinator" target="_blank">
+    <img class="bandcamp" src="https://belwoodmusic.com/wp-content/uploads/2019/01/bandcamp.jpg" target="blank">
+   </a>-->
+   <a href="https://music.apple.com/us/album/procrastinator/1749799212?i=1749799213" target="_blank">
+     <img class="apple" src="https://play-lh.googleusercontent.com/Teor5rECgHnHMG4Gi0pCXlQYg9bzT4lXgW-n8Ee2pNy9JGog2yoaz5UcLWJJW3bg">
+   </a>
+   
+  
+   <h4>DOWNLOADS</h4>
+   
+   <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=1156410692/size=large/bgcol=ffffff/linkcol=e99708/tracklist=false/transparent=true/" seamless><a href="https://rugbynyc.bandcamp.com/track/procrastinator">Procrastinator by RUGBY</a></iframe>
+   <!--there will be photos of the covers or titles of the releases, and when you click on them, they will download the tracks-->
+
+  <!--<h4>Procrastinator</h4>
+  <h4>Record High</h4>-->
+
+  
+<!--SO, THIS IS WHERE I WANT THE DOWNLOAD. I WANTED TO USE THE IMAGE AS THE DOWNLOAD BUTTON-->
+<!--<a href="https://drive.google.com/uc?export=download&id=1MDQJ03wxDvFoYnZ0cGUtyR3SDHFXbg4b"
+download="Procrastinator - RUGBY">
+<img class="time" src="https://f4.bcbits.com/img/a4056302689_10.jpg" alt="the artwork for the Procrastinator release.">
+</a>
+ </section>-->
+
+
+  <p> SEND US AN EMAIL FOR MORE INFO: GOONS@RUGBY.BAND
+    <!--Our band does not have any social media. 
+    If you would like to be informed when we book shows or release music, 
+    send us your email or home address in the space provided below.-->
+  </p>
+  <!--
+  <form action="rugby666band@gmail.com">
+     <label><input type="radio" id="e-mail" value="e-mail" name="button">e-mail </label>
+     <label><input type="radio" id="address" value="address" name="button">mailing address </label>
+   </fieldset>
+    <input type="text" name="fanemail" placeholder="Ur info here" required>
+    <button type="submit">Hell Yeah</button>
+  </form>-->
+<h4> CHECK OUT DANIEL'S WRITING 
+    <a href="https://daniel-tahoun.com" target="_blank">HERE</a></h4>
+</main>
+</body>
+</html>
+
+
