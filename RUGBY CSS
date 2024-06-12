@@ -3,6 +3,7 @@ h1, h2, h3, h4, p, body{
       }
 body{background-color: #E3AE26;
 }
+
 body {
   font-family: 'Tsukimi Rounded', sans-serif;
   }
@@ -28,6 +29,6 @@ body {
 .apple{
   width:12.5%;
 }
-
+ 
 
 .time{width:400px;}
