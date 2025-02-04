@@ -1,0 +1,15 @@
+const icons = document.querySelectorAll('.icon');
+
+icons.forEach(icon => {
+  icon.addEventListener('mouseenter', () => {
+    const iconRect = icon.getBoundingClientRect();
+    const randomX = Math.floor(Math.random() * (window.innerWidth - iconRect.width));
+    const randomY = Math.floor(Math.random() * (window.innerHeight - iconRect.height));
+
+    icon.style.transform = `translate(${randomX}px, ${randomY}px)`;
+  });
+
+  icon.addEventListener('mouseleave', () => {
+    icon.style.transform = 'none';
+  });
+});
