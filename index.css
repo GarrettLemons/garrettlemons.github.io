@@ -82,7 +82,7 @@ img {
 }
 
 .bandcamp-players {
-  display: flex;
+  display: center;
   flex-direction: column;
   gap: 20px;
 }
