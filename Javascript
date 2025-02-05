@@ -46,7 +46,7 @@ setInterval(() => {
   icons.forEach(icon => {
     icon.style.transform = 'none';
   });
-}, 5000);
+}, 1000);
 // Prevent default touch behavior on mobile
 document.addEventListener('touchstart', function(event) {
     if (event.target.closest('.icon')) {
