@@ -87,14 +87,14 @@ img {
   gap: 20px;
 }
 
-.hamburlar {
+.hamburglar {
   max-width: 100px;
   margin: 0 auto;
   display: block;
   transition: transform 0.3s ease;
 }
 
-.hamburlar:hover {
+.hamburglar:hover {
   transform: rotate(10deg);
 }
 
