@@ -47,3 +47,9 @@ setInterval(() => {
     icon.style.transform = 'none';
   });
 }, 5000);
+// Prevent default touch behavior on mobile
+document.addEventListener('touchstart', function(event) {
+    if (event.target.closest('.icon')) {
+      event.preventDefault();
+    }
+  }, { passive: false });
