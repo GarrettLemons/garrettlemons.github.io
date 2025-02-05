@@ -32,7 +32,7 @@ img {
 .banner img {
   max-width: 200px;
 }
-
+/*
 .social-icons {
   position: fixed;
   bottom: 20px;
@@ -59,7 +59,7 @@ img {
 .icon.instagram { color: #e1306c; }
 .icon.facebook { color: #3b5998; }
 .icon.tiktok { color: #000; }
-
+*/
 .show-one {
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
@@ -87,14 +87,14 @@ img {
   gap: 20px;
 }
 
-.hamburlar {
+.hamburglar {
   max-width: 100px;
   margin: 0 auto;
   display: block;
   transition: transform 0.3s ease;
 }
 
-.hamburlar:hover {
+.hamburglar:hover {
   transform: rotate(10deg);
 }
 
